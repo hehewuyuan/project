@@ -1,0 +1,155 @@
+2019-06-01 01:37:52  [ http-nio-8080-exec-17:34841 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-18:34850 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-24:34876 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-6:34876 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-12:34876 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-7:34875 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-4:34875 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-1:34875 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-9:34875 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-27:34875 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-10:34875 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-3:34882 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-21:34873 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-19:35165 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-25:34873 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-15:34873 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-2:34873 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-5:34873 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-20:34873 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-11:34853 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-32:35164 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-8:35172 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-34:35172 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-22:35163 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-26:35161 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-35:35136 ] - [ ERROR ]  org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: An attempt by a client to checkout a Connection has timed out.
+### The error may exist in ServletContext resource [/META-INF/mybatis/memberMapper.xml]
+### The error may involve com.lemon.futureloan.dao.MemberMapper.getMember
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: An attempt by a client to checkout a Connection has timed out.
+2019-06-01 01:37:52  [ http-nio-8080-exec-16:35126 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-30:35126 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-31:34914 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-13:35175 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-28:35175 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-14:35175 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-33:35175 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:37:52  [ http-nio-8080-exec-23:35175 ] - [ ERROR ]  org.apache.shiro.authc.UnknownAccountException: Realm [com.lemon.futureloan.shiro.MyRealm@4bb32282] was unable to find account data for the submitted AuthenticationToken [org.apache.shiro.authc.UsernamePasswordToken - 15815541763, rememberMe=false].
+2019-06-01 01:39:49  [ http-nio-8080-exec-31:151846 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "107.22"
+2019-06-01 01:39:49  [ http-nio-8080-exec-3:151848 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 01:39:49  [ http-nio-8080-exec-28:152130 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "100*0"
+2019-06-01 01:39:49  [ http-nio-8080-exec-3:152216 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1 2"
+2019-06-01 01:39:49  [ http-nio-8080-exec-1:152235 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 01:39:49  [ http-nio-8080-exec-28:152281 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "3 0"
+2019-06-01 01:39:49  [ http-nio-8080-exec-31:152361 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "10.1"
+2019-06-01 01:39:49  [ http-nio-8080-exec-33:152423 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "10.1"
+2019-06-01 01:39:49  [ http-nio-8080-exec-17:152450 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1 1"
+2019-06-01 01:39:49  [ http-nio-8080-exec-31:152482 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "10.1"
+2019-06-01 01:39:49  [ http-nio-8080-exec-9:152623 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.1"
+2019-06-01 01:39:49  [ http-nio-8080-exec-1:152655 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1 0"
+2019-06-01 01:39:54  [ http-nio-8080-exec-17:157028 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 01:39:54  [ http-nio-8080-exec-17:157113 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 01:39:54  [ http-nio-8080-exec-23:157144 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "107.22"
+2019-06-01 01:39:54  [ http-nio-8080-exec-17:157462 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "100*0"
+2019-06-01 01:39:54  [ http-nio-8080-exec-1:157520 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1 2"
+2019-06-01 01:39:54  [ http-nio-8080-exec-33:157574 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "3 0"
+2019-06-01 01:39:54  [ http-nio-8080-exec-17:157662 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "10.1"
+2019-06-01 01:39:54  [ http-nio-8080-exec-3:157722 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "10.1"
+2019-06-01 01:39:54  [ http-nio-8080-exec-24:157750 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1 1"
+2019-06-01 01:39:55  [ http-nio-8080-exec-17:157777 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "10.1"
+2019-06-01 01:39:55  [ http-nio-8080-exec-9:157923 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1.1"
+2019-06-01 01:39:55  [ http-nio-8080-exec-1:157951 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "1 0"
+2019-06-01 01:41:03  [ http-nio-8080-exec-23:226366 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 01:41:03  [ http-nio-8080-exec-33:226728 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 01:41:04  [ http-nio-8080-exec-28:226829 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "107.22"
+2019-06-01 01:43:27  [ http-nio-8080-exec-3:370588 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 01:43:28  [ http-nio-8080-exec-24:370971 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 01:43:28  [ http-nio-8080-exec-23:371070 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "107.22"
+2019-06-01 01:56:53  [ http-nio-8080-exec-1:1176053 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 01:56:53  [ http-nio-8080-exec-24:1176424 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 01:56:53  [ http-nio-8080-exec-8:1176522 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "107.22"
+2019-06-01 02:00:01  [ http-nio-8080-exec-17:1363839 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 02:00:01  [ http-nio-8080-exec-23:1364009 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 02:02:25  [ http-nio-8080-exec-24:1508567 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 02:02:25  [ http-nio-8080-exec-1:1508716 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 02:02:38  [ http-nio-8080-exec-17:1521625 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 02:02:38  [ http-nio-8080-exec-3:1521661 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 02:02:42  [ http-nio-8080-exec-9:1525451 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 02:02:42  [ http-nio-8080-exec-9:1525584 ] - [ ERROR ]  java.lang.NumberFormatException: For input string: "80&"
+2019-06-01 02:05:04  [ http-nio-8080-exec-1:1666856 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 02:05:07  [ http-nio-8080-exec-23:1669790 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+2019-06-01 02:05:09  [ http-nio-8080-exec-8:1672428 ] - [ ERROR ]  org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+### The error may involve com.lemon.futureloan.dao.LoanMapper.add-Inline
+### The error occurred while setting parameters
+### SQL: insert into loan   ( memberId      ,title      ,amount      ,loanRate       ,loanTerm      ,loanDateType      ,repaymemtWay      ,biddingDays      ,status   )  values   ( ?      ,?      ,?      ,?      ,?      ,?      ,?      ,biddingDays      ,?   )
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1
+; SQL []; Data truncation: Out of range value for column 'LoanTerm' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'LoanTerm' at row 1

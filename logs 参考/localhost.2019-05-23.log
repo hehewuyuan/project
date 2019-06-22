@@ -1,0 +1,73 @@
+23-May-2019 13:35:54.011 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+23-May-2019 13:35:54.311 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [/usr/local/apache-tomcat-8.5.41/webapps/futureloan/]
+23-May-2019 13:35:54.316 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [file:/usr/local/apache-tomcat-8.5.41/conf/log4j.properties]
+23-May-2019 13:35:54.487 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+23-May-2019 13:36:17.155 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+23-May-2019 13:36:18.388 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-May-2019 13:36:18.391 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-May-2019 13:36:18.392 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7d5965ef')
+23-May-2019 13:38:02.631 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+23-May-2019 13:38:02.633 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+23-May-2019 13:38:02.639 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+23-May-2019 13:38:02.669 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-May-2019 13:38:02.669 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+23-May-2019 13:38:14.331 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+23-May-2019 13:38:14.533 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [/usr/local/apache-tomcat-8.5.41/webapps/futureloan/]
+23-May-2019 13:38:14.538 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [file:/usr/local/apache-tomcat-8.5.41/conf/log4j.properties]
+23-May-2019 13:38:14.649 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+23-May-2019 13:39:12.176 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+23-May-2019 13:39:12.909 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-May-2019 13:39:12.912 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-May-2019 13:39:12.913 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4b15de8e')
+23-May-2019 18:18:12.180 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+23-May-2019 18:18:12.187 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+23-May-2019 18:18:12.196 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+23-May-2019 18:18:12.226 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-May-2019 18:18:12.227 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+23-May-2019 18:18:24.422 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+23-May-2019 18:18:24.661 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [/usr/local/apache-tomcat-8.5.41/webapps/futureloan/]
+23-May-2019 18:18:24.662 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [file:/usr/local/apache-tomcat-8.5.41/conf/log4j.properties]
+23-May-2019 18:18:24.757 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+23-May-2019 18:18:46.806 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+23-May-2019 18:18:47.579 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-May-2019 18:18:47.579 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-May-2019 18:18:47.580 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3fb3ecd3')
+23-May-2019 18:58:40.731 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+23-May-2019 18:58:40.734 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+23-May-2019 18:58:40.739 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+23-May-2019 18:58:40.775 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-May-2019 18:58:40.776 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+23-May-2019 18:58:57.479 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+23-May-2019 18:58:57.701 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [/usr/local/apache-tomcat-8.5.41/webapps/futureloan/]
+23-May-2019 18:58:57.702 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [file:/usr/local/apache-tomcat-8.5.41/conf/log4j.properties]
+23-May-2019 18:58:57.782 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+23-May-2019 18:59:24.813 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+23-May-2019 18:59:25.560 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-May-2019 18:59:25.564 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-May-2019 18:59:25.565 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5e9771e8')
+23-May-2019 19:29:52.206 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+23-May-2019 19:29:52.208 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+23-May-2019 19:29:52.213 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+23-May-2019 19:29:52.242 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-May-2019 19:29:52.242 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+23-May-2019 19:30:01.864 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+23-May-2019 19:30:02.095 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [/usr/local/apache-tomcat-8.5.41/webapps/futureloan/]
+23-May-2019 19:30:02.096 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [file:/usr/local/apache-tomcat-8.5.41/conf/log4j.properties]
+23-May-2019 19:30:02.213 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+23-May-2019 19:30:24.275 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+23-May-2019 19:30:24.988 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-May-2019 19:30:24.992 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-May-2019 19:30:24.993 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5e9771e8')
+23-May-2019 19:34:09.137 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
+23-May-2019 19:34:09.138 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+23-May-2019 19:34:09.143 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+23-May-2019 19:34:09.169 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+23-May-2019 19:34:09.169 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+23-May-2019 19:34:18.854 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+23-May-2019 19:34:19.065 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [/usr/local/apache-tomcat-8.5.41/webapps/futureloan/]
+23-May-2019 19:34:19.068 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [file:/usr/local/apache-tomcat-8.5.41/conf/log4j.properties]
+23-May-2019 19:34:19.187 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+23-May-2019 19:34:41.260 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+23-May-2019 19:34:41.966 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+23-May-2019 19:34:41.969 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+23-May-2019 19:34:41.970 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5e9771e8')
