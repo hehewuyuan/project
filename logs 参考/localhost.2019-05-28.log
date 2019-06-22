@@ -1,8 +1,0 @@
-28-May-2019 12:06:44.981 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
-28-May-2019 12:06:45.236 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webapp.root' = [/usr/local/apache-tomcat-8.5.41/webapps/futureloan/]
-28-May-2019 12:06:45.240 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [file:/usr/local/apache-tomcat-8.5.41/conf/log4j.properties]
-28-May-2019 12:06:45.398 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
-28-May-2019 12:07:14.598 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
-28-May-2019 12:07:15.906 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
-28-May-2019 12:07:15.906 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
-28-May-2019 12:07:15.907 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4b15de8e')
